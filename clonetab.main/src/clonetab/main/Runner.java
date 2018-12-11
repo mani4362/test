@@ -11,5 +11,6 @@ public class Runner {
         int b = new Scanner(System.in).nextInt();
         int result = obj.add(a,b);
         System.out.println(a+" "+" + "+b+" = "+result);
+        System.out.println("Naku emi radhu ");
     }
 }
